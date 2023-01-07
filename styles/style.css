@@ -120,3 +120,31 @@
   font-size: 25px;
   color: #737272;
 }
+/* Hobbby list */
+
+.my-hobby-container h6 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  text-align: center;
+  margin-bottom: 100px;
+}
+
+.my-hobby {
+  display: flex;
+
+  justify-content: space-between;
+  margin: 100px;
+}
+.hobby-list p {
+  font-weight: 700;
+  font-size: 25px;
+  color: #151414;
+  margin-top: 25px;
+  text-align: center;
+}
+ .shadow-effect{
+  box-shadow: 10px 10px 5px rgb(105, 102, 102);
+ }
+
+
