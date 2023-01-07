@@ -1,6 +1,6 @@
 * {
   margin: 0;
-  font-family: "Work Sans";
+  font-family: "Work Sans", sans-serif;
 }
 
 .header {
@@ -91,7 +91,7 @@
 /* my plans */
 
 .my-plane {
-  margin: 130px;
+  margin: 180px;
 }
 .my-plane h2 {
   font-weight: 700;
