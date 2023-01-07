@@ -143,8 +143,84 @@
   margin-top: 25px;
   text-align: center;
 }
- .shadow-effect{
+.shadow-effect {
   box-shadow: 10px 10px 5px rgb(105, 102, 102);
- }
+}
 
+/* call now area */
+.btn-primary-2 {
+  width: 160px;
+  height: 64px;
+  border-color: #ffffff;
+  border: 0;
+  border-radius: 5px;
+  font-weight: 600;
+  font-size: 20px;
+  color: #005fac;
+  margin-bottom: 60px;
+  margin-left: 65px;
+}
 
+.call-now-container {
+  background: linear-gradient(90deg, #005fac 0%, rgba(0, 95, 172, 0) 100%),
+    url(../images/watch.png);
+  border-radius: 8px;
+  margin: 100px 200px;
+  padding: 30px 440px 50px 35px;
+  width: 660px;
+  height: 220px;
+}
+.call-now-area h3 {
+  font-weight: 700;
+  font-size: 40px;
+  color: #ffffff;
+  margin-bottom: 25px;
+  margin-top: 60px;
+  margin-left: 65px;
+}
+/* footer section */
+.footer {
+  display: flex;
+  background: #151414;
+  justify-content: space-between;
+  padding: 120px 200px;
+}
+.footer-items h2 {
+  font-weight: 700;
+  font-size: 45px;
+  color: #f8f8f8;
+  margin-bottom: 16px;
+}
+
+.footer-items p {
+  font-weight: 400;
+  font-size: 16px;
+  color: #ffffff;
+  width: 485px;
+  height: 78px;
+  margin-bottom: 5px;
+}
+.icon-pad {
+  padding-right: 15px;
+}
+.Subscribe-item h2 {
+  font-weight: 600;
+  font-size: 25px;
+  color: #ffffff;
+  margin-bottom: 30px;
+}
+.Subscribe-item input {
+  padding: 20px 158px 20px 20px;
+  background: #151414;
+  border: 2px solid white;
+  border-radius: 10px;
+  margin-bottom: 15px;
+}
+.btn-primary-3 {
+  background: #005fac;
+  border-radius: 8px;
+  color: #ffffff;
+  font-weight: 600;
+  font-size: 20px;
+  padding: 20px 35px;
+}
