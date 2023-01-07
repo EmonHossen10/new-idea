@@ -2,13 +2,14 @@
   margin: 0;
   font-family: "Work Sans", sans-serif;
 }
-
+/* header section */
 .header {
   background: #ffffff;
   background-image: url("../images/banner/banner3.png");
   max-width: 1600px;
   height: 808px;
 }
+/* banner section */
 .banner {
   text-align: right;
 }
@@ -88,7 +89,7 @@
   color: #16d887;
   font-weight: 700;
 }
-/* my plans */
+/* my plans section */
 
 .my-plane {
   margin: 180px;
@@ -120,7 +121,7 @@
   font-size: 25px;
   color: #737272;
 }
-/* Hobbby list */
+/* My hobby section */
 
 .my-hobby-container h6 {
   font-weight: 700;
@@ -178,6 +179,7 @@
   margin-top: 60px;
   margin-left: 65px;
 }
+
 /* footer section */
 .footer {
   display: flex;
