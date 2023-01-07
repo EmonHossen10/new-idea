@@ -41,6 +41,7 @@
 }
 
 /* previous year section */
+
 .previous-year-content {
   display: flex;
   gap: 85px;
@@ -86,4 +87,36 @@
 .check-mark {
   color: #16d887;
   font-weight: 700;
+}
+/* my plans */
+
+.my-plane {
+  margin: 130px;
+}
+.my-plane h2 {
+  font-weight: 700;
+  font-size: 40px;
+  text-align: center;
+  color: #151414;
+  margin-top: 200px;
+}
+
+.plane-items {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+  margin-bottom: 130px;
+}
+.plane-list img {
+  margin-bottom: 25px;
+}
+.plane-list-title {
+  font-weight: 700;
+  font-size: 30px;
+  color: #151414;
+}
+.plane-list-description {
+  font-weight: 500;
+  font-size: 25px;
+  color: #737272;
 }
