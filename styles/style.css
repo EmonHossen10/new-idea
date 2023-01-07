@@ -39,3 +39,51 @@
   color: #005fac;
   margin: 0 230px 166px 875px;
 }
+
+/* previous year section */
+.previous-year-content {
+  display: flex;
+  gap: 85px;
+  color: rgb(255, 255, 255);
+}
+
+.previous-year-image {
+  width: 40%;
+  height: 600px;
+  margin-left: 150px;
+  margin-top: 150px;
+}
+
+.previous-year {
+  margin-top: 400px;
+}
+.previous-year-title {
+  font-weight: 700;
+  font-size: 40px;
+  color: #151414;
+  margin-bottom: 24px;
+  width: 288px;
+  height: 94px;
+}
+.previous-year-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  line-height: 1.4em;
+  width: 416px;
+  height: 104px;
+}
+
+.checkmark-description {
+  font-weight: 400;
+  font-size: 16px;
+  color: #444343;
+  list-style: none;
+  margin-left: -38px;
+  margin-top: -15px;
+  line-height: 1.8em;
+}
+.check-mark {
+  color: #16d887;
+  font-weight: 700;
+}
